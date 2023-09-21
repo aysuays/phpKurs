@@ -15,7 +15,7 @@ $poster=new DijitalUrun("Poster","50", "www.indir.com");
 
 echo 'Urunler Seçildi'.'<br>';
 
-$kullanici= new Kullanici("Aysu","Gür","aysu@hotmail.com","05454444444",new Adres("eryaman","1111. cadde","111.sokak","11","1","etimesgut","ankara"),"sms");
+$kullanici= new Kullanici("Aysu","aysu","aysu@hotmail.com","05454444444",new Adres("ilkyerlesim","1111. cadde","111.sokak","11","1","yenimahalle","istanbul"),"sms");
 
 echo 'Kullanıcı Oluşturuldu'.'<br>';
 $sepet= new Sepet("");
